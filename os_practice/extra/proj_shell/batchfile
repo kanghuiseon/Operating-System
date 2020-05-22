@@ -1,0 +1,7 @@
+
+ls
+/bin/ls -al
+ls ; pwd ; cat file
+quit
+pwd ; ls ; ls -al
+ppd
